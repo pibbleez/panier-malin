@@ -1,6 +1,6 @@
 # Politique de confidentialité – Panier Malin
 
-Dernière mise à jour : 24 novembre 2026
+Dernière mise à jour : 24 novembre 2026 (v1.2.1)
 
 Panier Malin ne vend aucune donnée et n'affiche aucune publicité.
 
@@ -10,7 +10,7 @@ Ton profil (taille du foyer, budget, code postal, régime, magasin), ton menu et
 ## Position (facultatif)
 Si tu touches « Trouver les magasins autour de moi » et que tu acceptes la demande d'Android :
 - ta position est lue **une seule fois**, à ce moment-là ;
-- elle est envoyée, arrondie à environ 10 mètres, au service public et gratuit **OpenStreetMap / Overpass API** (overpass-api.de) pour obtenir la liste des supermarchés proches ;
+- elle est **arrondie à environ 1 km**, puis envoyée au service public et gratuit **OpenStreetMap** (nominatim.openstreetmap.org, et overpass-api.de en secours) pour obtenir la liste des supermarchés proches ;
 - le téléphone en déduit ton code postal ;
 - la position n'est ni conservée par Panier Malin, ni suivie en arrière-plan. Seule la liste des magasins trouvés est gardée sur ton téléphone. Le bouton « Oublier ma position » l'efface.
 
